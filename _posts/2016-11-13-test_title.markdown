@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Why Web Development?"
+title:  "The Beginning"
 date:   2016-11-13 10:49:17 -0500
 ---
 
 
-My name is Parker Thompson, and I'm starting my path to web development! I'll admit, it's taken longer than neccessary to begin this journey. After high school, I earned my Associates degree in Computer Information Systems and Technology at a local community college. During my college courses, I worked at Starbucks and then CustomInk (where I still work) as a customer service representative. It has now been over a year since I've earned my degree and I've sat idlely by, comfortable with my job. Why am I starting web development now? I'm ready to turn my hobby into a career. I'm ready to earn financial freedom through a high demand and high reward job title, doing what I love. This blog will hopefully give insight into my progress to anyone interested, as well as help me stay on course with my web development goals!
-
--Parker
+**Why Web Development?**
+In college I found a passion in two things: graphic design and programming. I love full stack web development because much like Disney's version of Miley Cyrus, you get the best of both worlds! I've earned a web design certification from my local community college, but I am ready to learn the skills necessary to begin my career in web development. This blog is going to be an insight into my learning journey at Flatiron School, and also a roadmap for my own reference. I hope that writing on a regular basis will help me keep a clear goal in mind through this process.
