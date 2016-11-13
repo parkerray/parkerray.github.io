@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "**Test Title**"
-date:   2016-11-13 15:49:17 +0000
+title:  "**Why Web Development?**"
+date:   2016-11-13 10:49:17 -0500
 ---
 
 
+My name is Parker Thompson, and I'm starting my path to web development! I'll admit, it's taken longer than neccessary to begin this journey. After high school, I earned my Associates degree in Computer Information Systems and Technology at a local community college. During my college courses, I worked at Starbucks and then CustomInk (where I still work) as a customer service representative. It has now been over a year since I've earned my degree and I've sat idlely by, comfortable with my job. 
 
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+Why am I starting web development now? I'm ready to turn my hobby into a career. I'm ready to earn financial freedom through a high demand and high reward job title, doing what I love. This blog will hopefully give insight into my progress to anyone interested, as well as help me stay on course with my web development goals!
+
+-Parker
