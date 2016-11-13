@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "**Why Web Development?**"
+title:  "Why Web Development?"
 date:   2016-11-13 10:49:17 -0500
 ---
 
